@@ -1,11 +1,14 @@
 # Magic With AI
 
-- Convert your imagination to reality
-  
-- Snapshots
+<p> Convert your imagination to reality </p>
 
--- Chat with AI
+  <h2> Snapshots </h2>
+
+1. Chat with AI
+
 ![alt text](<AI-Chat - 1.png>)
 
--- Generate with AI
+
+2. Generate with AI
+
 ![alt text](<AI-Image - 1.png>)
