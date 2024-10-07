@@ -6,9 +6,9 @@
 
 1. Chat with AI
    
-Screenshots/AI-Chat - 1.png
+![image](Screenshots/AI-Chat%20-%201.png)
 
 2. Generate with AI
 
-Screenshots/AI-Image - 1.png
+![image](Screenshots/AI-Image%20-%201.png)
 
